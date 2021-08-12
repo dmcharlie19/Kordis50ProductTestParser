@@ -1,0 +1,12 @@
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Kordis50ProductTestParser.exe.config
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Kordis50ProductTestParser.exe
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Kordis50ProductTestParser.pdb
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Microsoft.TeamFoundation.Client.dll
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\obj\Debug\Kordis50ProductTestParser.csprojResolveAssemblyReference.cache
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\obj\Debug\Kordis50ProductTestParser.exe
+D:\WorkSpace3\Autograph\Source\Kordis50ProductTestParser\Kordis50ProductTestParser\obj\Debug\Kordis50ProductTestParser.pdb

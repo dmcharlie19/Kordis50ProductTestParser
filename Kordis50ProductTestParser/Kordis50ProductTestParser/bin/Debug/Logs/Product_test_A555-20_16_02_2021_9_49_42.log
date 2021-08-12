@@ -1,0 +1,15 @@
+
+UnitTestSuite_Started
+TestAccelerometer() started...
+I	589	Z axis average value = 17387. Acceptable range = [14000..19000]
+I	883	Average temperature = 21
+I	1405	selfTest = 3431, acceptable:[1500..4500]
+I	1885	selfTest = 4083, acceptable:[1500..4500]
+I	2365	selfTest = 10082, acceptable:[6440..12440]
+TestAccelerometer() successfully passed.
+
+TestLorawan() started...
+I	2368	Init and cofigure modem complete, connection with base station..
+D	2369	LorawanModem::Connect() _isConnected=0
+I	2601	CreateEventQueueWithThread: QueueSize=520
+D	2674	Connection-InProgress..., retcode=-1016

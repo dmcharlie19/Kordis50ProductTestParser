@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"Product_test_A555-20" "-server:http://atfs16:8080/tfs" "-serverPath:%24/Kordis50/Product/Firmware/Product_test_A555_20.hex"</StartArguments>
+  </PropertyGroup>
+</Project>
